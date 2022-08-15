@@ -8,5 +8,6 @@
 
 ## :framed_picture: Demo
 ### 0815
+<img width="89" alt="스크린샷 2022-08-15 오후 10 47 30" src="https://user-images.githubusercontent.com/50474006/184647492-a74ab87b-0b18-4d79-8a9f-f5246348a3d9.png">
 
 ![simulator_screenshot_60B7B799-EF7F-4C33-ADD4-A92B4513D3A1](https://user-images.githubusercontent.com/50474006/184647314-66d187ba-de1a-4349-b384-f0e6d17e8207.png)
