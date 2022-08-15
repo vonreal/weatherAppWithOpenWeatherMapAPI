@@ -9,5 +9,4 @@
 ## :framed_picture: Demo
 ### 0815
 
-![Simulator Screen Shot - iPhone 11 - 2022-08-15 at 22 18 53](https://user-images.githubusercontent.com/50474006/184647170-45835090-1303-4f92-a201-777ebef0da12.png)
-
+![simulator_screenshot_60B7B799-EF7F-4C33-ADD4-A92B4513D3A1](https://user-images.githubusercontent.com/50474006/184647314-66d187ba-de1a-4349-b384-f0e6d17e8207.png)
